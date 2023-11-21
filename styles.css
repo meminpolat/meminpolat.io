@@ -1,0 +1,49 @@
+header{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+}
+
+h4{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    font-size: large;
+    padding-top: 30px;
+}
+
+
+
+footer{
+    color: black;
+    background-color: gray;
+    text-align: center;
+}
+
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: white;
+    font-weight: bold;
+}
+
+h1{
+    font-family: Arial, Helvetica,sans-serif;
+    font-size: large;
+    color: black;
+    }
+    .a {
+    background-color: pink;
+    padding: 10px;
+    text-align: left;
+    color: white;
+    
+    }
+
+
+label{
+    display: block;
+    margin-bottom: 8px;
+}
